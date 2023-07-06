@@ -1,7 +1,7 @@
 package ssprog2;
 // AAKASH NANDRAJOG//
 /* ESC/Java2 Exercise: 
-
+#HAHA
 This class implements a Bag of integers, using an array.
 
 Add JML specs to this class, to stop ESC/Java2 from complaining.

@@ -1,6 +1,6 @@
 package ssprog2;
 //AAKASH NANDRAJOG
-/* ESC/Java2 exercise
+/* ESC/Java2 exercise ##hello
 
    Objects of this class represent euro amounts. For example, an Amount 
    object with
